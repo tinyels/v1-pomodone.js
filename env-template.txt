@@ -1,0 +1,6 @@
+V1Protocol=https
+V1Port=443
+V1Host=HOST_NAME_HERE
+V1Instance=APP_NAME_HERE
+V1AccessToken=ACCESS_TOKEN_HERE
+PORT=3000
